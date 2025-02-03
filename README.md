@@ -28,7 +28,7 @@ Os resultados incluem a avaliação dos modelos utilizando métricas como acurá
 
 ## 📚 Referências
 - [Documentação do Scikit-Learn](https://scikit-learn.org/stable/documentation.html)
-- [Curso de Machine Learning da Alura](https://www.alura.com.br/curso-online-machine-learning)
+- [Curso de Machine Learning da Alura](https://www.alura.com.br/conteudo/classificacao-aprendendo-classificar-dados-machine-learning)
 -  [Documentação do pgmpy](https://pgmpy.org/)
 
 ## 📝 Licença
