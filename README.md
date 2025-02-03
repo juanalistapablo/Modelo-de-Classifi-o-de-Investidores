@@ -6,7 +6,9 @@ Bem-vindo ao repositório de Redes Baysianas ! Este projeto apresenta técnicas 
 Este repositório contém uma apresentaçao introdutoria ao conseitos de Redes Baysians e um notebook Jupyter( Google colab) detalhado que demonstra como aplicar algoritmos de Redes Baysians em um conjunto de dados de marketing de investimento.
 
 ## 📂 Estrutura do Repositório
-- `.ipynb`: Notebook com a análise e implementação dos algoritmos.
+- `LINK DA PARTE PRATICA DA APRESENTAÇ.txt`: contem o o linck do notebook colab, exemplo de aplicaçao a Dados.
+- `LINK SLIDE CANVA E LISTA DE CORREÇOES.txt`: contem a acesso a apresentaçao introdutoria a redes bayesianas.
+- `REDES_BAYS_para_DADOS.ipynb`: Notebook com a análise e implementação dos algoritmos.
 - `marketing_investimento.csv`: Conjunto de dados utilizado para as análises.
 
 ## 📊 Algoritmos Utilizados
@@ -27,11 +29,11 @@ Os resultados incluem a avaliação dos modelos utilizando métricas como acurá
 ## 📚 Referências
 - [Documentação do Scikit-Learn](https://scikit-learn.org/stable/documentation.html)
 - [Curso de Machine Learning da Alura](https://www.alura.com.br/curso-online-machine-learning)
-- 
+-  [Documentação do pgmpy](https://pgmpy.org/)
 
 ## 📝 Licença
 Este projeto está licenciado sob a licença MIT.
 
 ---
 
-Feito com ❤️ por Juan Pablo , Joao Henrique e Joao. Sinta-se à vontade para contribuir e dar feedback!
+Feito com ❤️ por Juan Pablo , Joao Henrique e Joao Victor. Sinta-se à vontade para contribuir e dar feedback!
