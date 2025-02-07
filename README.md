@@ -19,8 +19,7 @@ Este repositório contém uma apresentaçao introdutoria ao conseitos de Redes B
 - Hill Climb Search
 
 ## 📈 Resultados
-Os resultados incluem a avaliação dos modelos utilizando métricas como acurácia, precisão, recall e F1-score.
-
+O código não só constrói uma rede bayesiana automaticamente a partir dos dados, como também realiza inferência e avaliação, mostrando como este tipo de modelo pode ser usado tanto para previsão quanto para análise probabilística.
 ## 🚀 Como Executar
 1. Clone este repositório: ``
 2. Navegue até o diretório: ``
