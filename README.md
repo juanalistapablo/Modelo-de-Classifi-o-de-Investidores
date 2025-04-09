@@ -1,6 +1,6 @@
 # LOGICA FORMAL: REDES BAYSIANAS 🚀
 
-Bem-vindo ao repositório de Redes Baysianas ! Este projeto apresenta técnicas De algoritmos de Redes baysianas pra a computaçao e exemplificado a  análise de dados.
+Bem-vindo ao repositório de Redes Baysianas ! Este projeto apresenta técnicas De algoritmos de Redes baysianas pra a computaçao e exemplificado com dados.
 
 ## 📄 Sobre o Projeto
 Este repositório contém uma apresentaçao introdutoria ao conseitos de Redes Baysians e um notebook Jupyter( Google colab) detalhado que demonstra como aplicar algoritmos de Redes Baysians em um conjunto de dados de marketing de investimento.
